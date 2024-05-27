@@ -1,7 +1,5 @@
 # mid
 
-Machine UUID, port of github.com/codeskyblue/muuid
-
 [![GoDoc](https://godoc.org/github.com/mycalf/mid?status.svg)](https://godoc.org/github.com/mycalf/mid)
 
 Machine UUID, port of github.com/codeskyblue/muuid
